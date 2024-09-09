@@ -15,6 +15,6 @@
 
 ## How it works?
 
-### All the messages store in Firebase Console. There is a Database called `messages`. From React client request is sent to this database and then return the values(e.g. Nickname, Message itself).
+### All the messages store in Firebase DB `messages`. From React client the request is sent to this database and then return the values(e.g. Nickname, Message itself).
 
 <img src="./readmefiles/db.png" height="400" />
