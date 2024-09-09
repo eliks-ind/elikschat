@@ -1,7 +1,7 @@
 # Online Chat Made using React and Firebase
 
 ## How to Use?
-### Follow the link for the [website](https://elikschat.netlify.app/) and press the Sign In button
+### Follow the [link](https://elikschat.netlify.app/) for the website and press the Sign In button
 
 <img src="./readmefiles/SignIn.jpg" height="400" />
 
