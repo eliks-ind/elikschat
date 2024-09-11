@@ -20,7 +20,7 @@ Enjoy!
 ## Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/elikschat.git
+    git clone https://github.com/eliks-ind/elikschat.git
     cd elikschat
     ```
 2. **Install dependencies:**
