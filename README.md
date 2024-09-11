@@ -27,6 +27,7 @@ Enjoy!
 
    ```bash
    npm install
+   npm install firebase
    ```
 3. **Run the server:**
     ```bash
