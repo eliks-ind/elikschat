@@ -103,7 +103,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>super chat by eliks</h1>
-      <h3>Sign In to enjoy the whole experience of sucking big cocks with React JS :3</h3>
+      <h3>Sign In to enjoy the whole experience of online chat!</h3>
       {user ? (
         <>
           <div className="msgs-container">
